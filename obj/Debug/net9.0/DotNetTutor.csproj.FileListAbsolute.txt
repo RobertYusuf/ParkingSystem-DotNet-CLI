@@ -1,0 +1,14 @@
+/home/enigma/Coding/dotnet/DotNetTutor/bin/Debug/net9.0/DotNetTutor
+/home/enigma/Coding/dotnet/DotNetTutor/bin/Debug/net9.0/DotNetTutor.deps.json
+/home/enigma/Coding/dotnet/DotNetTutor/bin/Debug/net9.0/DotNetTutor.runtimeconfig.json
+/home/enigma/Coding/dotnet/DotNetTutor/bin/Debug/net9.0/DotNetTutor.dll
+/home/enigma/Coding/dotnet/DotNetTutor/bin/Debug/net9.0/DotNetTutor.pdb
+/home/enigma/Coding/dotnet/DotNetTutor/obj/Debug/net9.0/DotNetTutor.GeneratedMSBuildEditorConfig.editorconfig
+/home/enigma/Coding/dotnet/DotNetTutor/obj/Debug/net9.0/DotNetTutor.AssemblyInfoInputs.cache
+/home/enigma/Coding/dotnet/DotNetTutor/obj/Debug/net9.0/DotNetTutor.AssemblyInfo.cs
+/home/enigma/Coding/dotnet/DotNetTutor/obj/Debug/net9.0/DotNetTutor.csproj.CoreCompileInputs.cache
+/home/enigma/Coding/dotnet/DotNetTutor/obj/Debug/net9.0/DotNetTutor.dll
+/home/enigma/Coding/dotnet/DotNetTutor/obj/Debug/net9.0/refint/DotNetTutor.dll
+/home/enigma/Coding/dotnet/DotNetTutor/obj/Debug/net9.0/DotNetTutor.pdb
+/home/enigma/Coding/dotnet/DotNetTutor/obj/Debug/net9.0/DotNetTutor.genruntimeconfig.cache
+/home/enigma/Coding/dotnet/DotNetTutor/obj/Debug/net9.0/ref/DotNetTutor.dll
